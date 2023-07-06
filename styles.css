@@ -1,0 +1,36 @@
+.title{
+    background-color: 	#e66060;
+    color: 	#a8b3ff;
+    font-family: Brush Script MT, sans-serif;
+    text-align: center;
+    font-weight: bold;
+}
+.descrip{
+    background-color: 	#99ffec;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ingredients{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #fff788;
+}
+ul{
+    background-color: #99ffec;
+    font-family: 'Courier New', Courier, monospace
+}
+.steps{
+    background-color: #a8b3ff;
+}
+ol{
+    background-color: #99ffec;
+    font-family: 'Courier New', Courier, monospace;
+}
+.coverphoto{
+    background-color: #e66060;
+}
+button{
+    width: 200px;
+    height: auto;
+    background-color: #fff788;
+    color: #e66060;
+}
